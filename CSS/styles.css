@@ -14,3 +14,15 @@ h1 {
 h3 {
     color: #01a9b4;
 }
+
+.circular {
+    border-radius: 100%;
+}
+
+h1:hover {
+    color: #00eeff;
+}
+
+h3:hover {
+    color: #00eeff;
+}
